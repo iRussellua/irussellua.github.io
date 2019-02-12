@@ -27,6 +27,8 @@ function sliderLeft() {
     
 }
 
+// Стрелка влево
+
 function sliderRight() {
     var poloska = document.getElementById('poloska');
     left += 128;
